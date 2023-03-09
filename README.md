@@ -8,11 +8,9 @@ Ruletissa on myös näyttö ja kytkin, josta voidaan valita nopea tai hidas pyö
 
 # <a href = "https://youtube.com/shorts/9MqsD5-Ywug"> Prototyyppi 8-ledillä </a>
 
-# Prototyyppi 2.0 16-ledillä
-https://youtube.com/shorts/93RFbZx7E_I
+# <a href = "https://youtube.com/shorts/93RFbZx7E_I"> Prototyyppi 2.0 16-ledillä </a>
 
-# Valmistunut työ ja sen esittely
-https://youtu.be/eSXP0HHrl14
+# <a href = "https://youtu.be/eSXP0HHrl14" Valmistunut työ ja sen esittely </a>
 
 Tekijät: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä
 
