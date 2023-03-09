@@ -10,7 +10,7 @@ Ruletissa on myös näyttö ja kytkin, josta voidaan valita nopea tai hidas pyö
 
 # <a href = "https://youtube.com/shorts/93RFbZx7E_I"> Prototyyppi 2.0 16-ledillä </a>
 
-# <a href = "https://youtu.be/eSXP0HHrl14" Valmistunut työ ja sen esittely </a>
+# <a href = "https://youtu.be/eSXP0HHrl14"> Valmistunut työ ja sen esittely </a>
 
 Tekijät: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä
 
