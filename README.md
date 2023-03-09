@@ -24,13 +24,10 @@ Roulette works with five 74HC595 shift registers. <br />
 Roulette starts spinning by pressing a button or by swinging your hand in front of the ultrasound sensor. <br />
 The roulette also has a screen and a switch, from which you can choose a fast or slow spin and it is shown on the screen. <br />
 
-# Prototype with 8-leds
-https://youtube.com/shorts/9MqsD5-Ywug
+# <a href = "https://youtube.com/shorts/9MqsD5-Ywug"> Prototype with 8-leds </a>
 
-# Prototype 2.0 with 16-leds
-https://youtube.com/shorts/93RFbZx7E_I
+# <a href = "https://youtube.com/shorts/93RFbZx7E_I"> Prototype 2.0 with 16-leds </a>
 
-# Finished project
-https://youtu.be/eSXP0HHrl14
+# <a href = "https://youtu.be/eSXP0HHrl14"> Finished project </a>
 
 Made by: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä
